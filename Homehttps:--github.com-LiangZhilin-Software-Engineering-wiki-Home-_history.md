@@ -25,10 +25,12 @@
         <td>版权所属：广州商学院14级商业软件工程1班</td>
     </tr>
 </table>
-
-
-
-
+<h1>如何配置环境和工具</h1>
+<ul>
+<li><p>1.安装MyEclipse.http://jingyan.baidu.com/article/64d05a027f1706de55f73bad.html</p></li>
+<li><p>2.下载项目文件并导入到MyEclipse中</p></li>
+<li><p>3.部署项目.http://jingyan.baidu.com/article/a65957f4894faf24e67f9bbe.html</p></li>
+</ul>
 
 
 
