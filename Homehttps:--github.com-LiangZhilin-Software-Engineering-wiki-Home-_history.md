@@ -32,7 +32,9 @@
 <li><p>3.部署项目.http://jingyan.baidu.com/article/a65957f4894faf24e67f9bbe.html</p></li>
 </ul>
 
-
+<h1>说明文档</h1>
+详细说明请参考梁植淋的博客:
+http://www.cnblogs.com/liangzhilin/p/5270845.html
 
 
 
