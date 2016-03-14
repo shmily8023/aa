@@ -13,7 +13,7 @@
         <td>使用工具：MyEclipse,Tomcat.</td>
     </tr>
     <tr>
-        <td>所用JDK版本：1.7</td>
+        <td>使用JDK版本：1.7</td>
     </tr>
     <tr>
         <td>使用框架：Struts2,Spring,Bootstrap</td>
