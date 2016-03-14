@@ -13,7 +13,7 @@
         <td>使用工具：MyEclipse,Tomcat.</td>
     </tr>
     <tr>
-        <td>用到框架：Struts2,Spring,Bootstrap</td>
+        <td>使用框架：Struts2,Spring,Bootstrap</td>
     </tr>
     <tr>
         <td>主要功能：计算满期额、计算本金、计算投资时长等</td>
