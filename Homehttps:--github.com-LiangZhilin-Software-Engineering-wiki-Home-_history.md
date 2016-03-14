@@ -28,7 +28,7 @@
 <h1>如何配置环境和工具</h1>
 <ul>
 <li>1.安装MyEclipse.请参考百度教程：http://jingyan.baidu.com/article/64d05a027f1706de55f73bad.html</li>
-<li><p>2.下载项目文件并导入到MyEclipse中</p></li>
+<li><p>2.下载项目文件并导入到MyEclipse中.请参考百度教程：http://jingyan.baidu.com/article/6b97984d63cfc51ca2b0bf1d.html</p></li>
 <li><p>3.部署项目.请参考百度教程：http://jingyan.baidu.com/article/a65957f4894faf24e67f9bbe.html</p></li>
 </ul>
 
