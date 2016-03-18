@@ -37,5 +37,4 @@
 
 <h1>说明文档</h1>
 详细说明请参考梁植淋的博客:
-http://www.cnblogs.com/liangzhilin/p/5270845.html
-
+http://www.cnblogs.com/liangzhilin/p/5285773.html
