@@ -32,11 +32,10 @@
 <ul>
 <li>1.安装MyEclipse.请参考百度教程：<a href="http://jingyan.baidu.com/article/64d05a027f1706de55f73bad.html">请点击这里</a></li>
 <li><p>2.下载项目文件并导入到MyEclipse中.请参考百度教程：<a href="http://jingyan.baidu.com/article/6b97984d63cfc51ca2b0bf1d.html>请点击这里</a></p></li>
-<li><p>3.部署项目.请参考百度教程：http://jingyan.baidu.com/article/a65957f4894faf24e67f9bbe.html</p></li>
+<li><p>3.部署项目.请参考百度教程：<a href="http://jingyan.baidu.com/article/a65957f4894faf24e67f9bbe.html>请点击这里</a></p></li>
 </ul>
 
 <h1>说明文档</h1>
 详细说明请参考梁植淋的博客:
 http://www.cnblogs.com/liangzhilin/p/5270845.html
-
 
